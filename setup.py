@@ -11,21 +11,21 @@ setuptools.setup(
     description="Python docassemble package for integrating with DocuSign",
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url="https://github.com/radiant-law/docassemble-docusign",
-    author="Radiant Law, Theo Hamilton",
-    author_email="alex.hamilton@radiantlaw.com",
+    url="https://github.com/silexsistemas/docassemble-docusign.git",
+    author="SiLEX Sistemas, Roberto Vasconcelos Novaes",
+    author_email="roberto.novaes@silexsitemas.com.br",
     license='MIT',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
         'Topic :: Software Development :: Build Tools',
         'License :: OSI Approved :: MIT License',
-        'Programming Language :: Python :: 3.5'
+        'Programming Language :: Python :: 3.6'
     ],
     keywords="docassemble docusign development",
     project_urls={
-        "Radiant Law": "https://radiantlaw.com",
-        "Source": "https://github.com/radiant-law/docassemble-docusign"
+        "SiLEX Sistemas": "https://www.silexsistemas.com.br",
+        "Source": "https://github.com/silexsistemas/docassemble-docusign.git"
     ,
     },
     packages=setuptools.find_packages(),
